@@ -1,0 +1,6 @@
+
+#C Build files
+*.o
+
+#Executable
+tetris
